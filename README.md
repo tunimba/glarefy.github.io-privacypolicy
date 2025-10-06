@@ -25,6 +25,14 @@ We use your information to:
 - We do not sell, resell, or reuse your photos.
 - Uploaded images are used strictly for glare-removal purposes in compliance with data protection standards.
 
+# 4A. Face Data and Image Processing
+- The Application does not collect, analyze, or store any facial data or biometric identifiers.
+All photos, including those that may contain faces, are processed solely to apply visual effects and AI-generated transformations (e.g., cartoon, anime, or fantasy styles).
+- No facial recognition, face mapping, or identity analysis is performed.
+- Photos are processed temporarily and automatically deleted from servers within 24 hours.
+- The app does not create, infer, or retain any data that can identify or authenticate an individual based on facial features.
+- The Application’s AI models process images only for artistic rendering purposes and do not perform biometric analysis of any kind.
+
 # 5. Third-Party Services
 We may use trusted third-party services to operate our Application:
 - Apple App Store (payments)
