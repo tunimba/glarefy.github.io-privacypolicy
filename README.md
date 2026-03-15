@@ -1,5 +1,5 @@
 # Privacy Policy – Glarefy: Glare Remover from Glasses
-Last Updated: [2025/10/4]
+Last Updated: [2026/3/15]
 
 # 1. Acceptance of Terms
 Glarefy is committed to protecting your privacy. This Privacy Policy applies to Glarefy and its various versions (collectively referred to as "we", "us", or "our") and is part of our Terms of Use. By accessing or using our Application, you acknowledge and fully understand Glarefy’s Privacy Policy and freely consent to the practices described here.
@@ -49,4 +49,4 @@ We may update this Privacy Policy from time to time. The updated version will be
 
 # 8. Contact Us
 If you have questions or concerns about this Privacy Policy, please contact us:
-Email: app.glarefy@gmail.com
+Email: tunahanaktay.apps@gmail.com
