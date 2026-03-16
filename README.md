@@ -76,12 +76,14 @@ Face data is **not retained** by us or by any third party. Photos exist in Repli
 
 ### Summary
 
-Face data collected? No. Photos processed as whole images; no face data extracted.  
-Face data stored? No. Not retained by us or any third party.  
-Biometric analysis performed? No. No facial recognition, face mapping, or identity analysis.  
-Face data shared? Photos sent to Replicate for processing only; immediately discarded.  
-Replicate stores face data? No. Discarded immediately after transformation.  
-Face data used for profiling? No. Used solely for visual transformation.
+| Question | Answer |
+|----------|--------|
+| Face data collected? | No. Photos processed as whole images; no face data extracted. |
+| Face data stored? | No. Not retained by us or any third party. |
+| Biometric analysis performed? | No. No facial recognition, face mapping, or identity analysis. |
+| Face data shared? | Photos sent to Replicate for processing only; immediately discarded. |
+| Replicate stores face data? | No. Discarded immediately after transformation. |
+| Face data used for profiling? | No. Used solely for visual transformation. |
 
 ## 4. How We Process Your Photos
 
