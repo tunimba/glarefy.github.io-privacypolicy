@@ -6,7 +6,7 @@ Last Updated: 2026/3/15
 
 Glarefy ("Glarefy", "we", "us", or "our") is committed to protecting your privacy. This Privacy Policy applies to Glarefy and its various versions and is part of our Terms of Use. By accessing or using our Application, you acknowledge and fully understand this Privacy Policy and freely consent to the practices described here.
 
-None of the data collected by this app is linked to your identity.
+**None of the data collected by this app is linked to your identity.**
 
 ## 2. Data We Collect
 
@@ -14,41 +14,41 @@ We collect the following categories of data, none of which is linked to your ide
 
 ### User Content
 
-Photos or Videos — Used for App Functionality
+**Photos or Videos** — Used for App Functionality
 
 You may upload or capture photos solely for AI-powered glare removal, reflection removal, glasses glare reduction, and photo enhancement transformations. Photos are sent temporarily to our AI provider for processing and are automatically discarded once the transformation is complete. We do not store, extract, or analyze facial features for identification or profiling purposes.
 
 ### Identifiers
 
-Device ID — Used for Analytics, and Other Purposes
+**Device ID** — Used for Analytics, and Other Purposes
 
 An anonymous device identifier is collected to ensure secure and reliable AI service routing. This identifier is not linked to your personal identity.
 
 ### Purchases
 
-Purchase History — Used for App Functionality, and Analytics
+**Purchase History** — Used for App Functionality, and Analytics
 
 If you make in-app purchases, transaction data is processed by Apple and RevenueCat to manage your subscription. This data is used to provide access to premium features and to analyze purchasing trends in aggregate.
 
 ### Usage Data
 
-Product Interaction — Used for Analytics
+**Product Interaction** — Used for Analytics
 
 We collect anonymous data about how you interact with the app (e.g., screens viewed, features used) through Firebase Analytics. This helps us understand how the app is used and identify areas for improvement.
 
 ### Diagnostics
 
-Crash Data — Used for App Functionality
+**Crash Data** — Used for App Functionality
 
 Crash reports are collected through Firebase Crashlytics to help us identify and fix issues that affect app stability.
 
-Other Diagnostic Data — Used for App Functionality, and Analytics
+**Other Diagnostic Data** — Used for App Functionality, and Analytics
 
 Additional diagnostic information (e.g., performance metrics, error logs) may be collected to monitor app health and improve reliability.
 
 ### Other Data
 
-Other Data Types — Used for Other Purposes, and Analytics
+**Other Data Types** — Used for Other Purposes, and Analytics
 
 Anonymous service data, including IP address, is collected to ensure secure and safe AI service routing.
 
@@ -58,21 +58,21 @@ This section describes in detail how Glarefy handles face data in compliance wit
 
 ### What face data does the app collect?
 
-Glarefy does not collect, store, or retain any face data. Photos you upload may contain faces, but the app does not extract, analyze, or store any facial features, biometric identifiers, or face geometry data. The uploaded photo is processed as a whole image; no face-specific data is isolated or recorded at any point.
+Glarefy does **not** collect, store, or retain any face data. Photos you upload may contain faces, but the app does not extract, analyze, or store any facial features, biometric identifiers, or face geometry data. The uploaded photo is processed as a whole image; no face-specific data is isolated or recorded at any point.
 
 ### How is face data used?
 
-Photos containing faces are used solely to provide AI-powered glare removal, reflection removal, glasses glare reduction, and photo enhancement transformations. The processing is entirely automated by AI models that apply visual transformations to the image. The app does not perform facial recognition, face mapping, identity analysis, or any form of biometric identification. No face data is used for advertising, profiling, or any purpose beyond delivering the requested transformation.
+Photos containing faces are used **solely** to provide AI-powered glare removal, reflection removal, glasses glare reduction, and photo enhancement transformations. The processing is entirely automated by AI models that apply visual transformations to the image. The app does not perform facial recognition, face mapping, identity analysis, or any form of biometric identification. No face data is used for advertising, profiling, or any purpose beyond delivering the requested transformation.
 
 ### Is face data shared with third parties?
 
-Photos are transmitted to our third-party AI processing provider, Replicate, Inc., solely for the purpose of performing the requested transformation. Replicate processes the image, returns the result, and immediately discards the original photo. Replicate does not store, retain, or reuse uploaded images. Replicate does not extract or retain any face data, biometric identifiers, or facial features from the images it processes.
+Photos are transmitted to our third-party AI processing provider, Replicate, Inc., solely for the purpose of performing the requested transformation. Replicate processes the image, returns the result, and **immediately discards** the original photo. Replicate does not store, retain, or reuse uploaded images. Replicate does not extract or retain any face data, biometric identifiers, or facial features from the images it processes.
 
 No other third party receives or has access to your photos or any face data.
 
 ### How long is face data retained?
 
-Face data is not retained by us or by any third party. Photos exist in Replicate's processing pipeline only for the duration of the transformation (typically seconds) and are automatically discarded upon completion. We do not maintain any copies, backups, or derivatives of your photos on our servers.
+Face data is **not retained** by us or by any third party. Photos exist in Replicate's processing pipeline only for the duration of the transformation (typically seconds) and are automatically discarded upon completion. We do not maintain any copies, backups, or derivatives of your photos on our servers.
 
 ### Summary
 
@@ -85,32 +85,32 @@ Face data used for profiling? No. Used solely for visual transformation.
 
 ## 4. How We Process Your Photos
 
-- Temporary processing: Uploaded photos are sent to our third-party AI provider, Replicate, Inc., for AI-powered glare removal, reflection removal, glasses glare reduction, and photo enhancement transformations.
-- No storage: Once the transformation is complete, the image is returned to your device and the original photo is automatically discarded by Replicate. We do not store photos on our own servers.
-- No biometric analysis: The app does not extract or analyze facial features for identification or profiling purposes. No biometric identifiers are created, inferred, or retained.
-- No human review: All processing is handled by automated AI models. No employee accesses or views your images unless you explicitly contact our support team for help.
+- **Temporary processing:** Uploaded photos are sent to our third-party AI provider, Replicate, Inc., for AI-powered glare removal, reflection removal, glasses glare reduction, and photo enhancement transformations.
+- **No storage:** Once the transformation is complete, the image is returned to your device and the original photo is automatically discarded by Replicate. We do not store photos on our own servers.
+- **No biometric analysis:** The app does not extract or analyze facial features for identification or profiling purposes. No biometric identifiers are created, inferred, or retained.
+- **No human review:** All processing is handled by automated AI models. No employee accesses or views your images unless you explicitly contact our support team for help.
 
 ## 5. Third-Party Services
 
 We use the following third-party services:
 
-Replicate, Inc. — AI-powered photo transformations  
-RevenueCat — Subscription and purchase management  
-Firebase Analytics — Anonymous usage analytics  
-Firebase Crashlytics — Crash reporting and diagnostics  
-Firebase Remote Config — App configuration delivery  
-AIProxy — Secure AI service routing  
-Apple In-App Purchases — Secure transaction handling
+**Replicate, Inc.** — AI-powered photo transformations  
+**RevenueCat** — Subscription and purchase management  
+**Firebase Analytics** — Anonymous usage analytics  
+**Firebase Crashlytics** — Crash reporting and diagnostics  
+**Firebase Remote Config** — App configuration delivery  
+**AIProxy** — Secure AI service routing  
+**Apple In-App Purchases** — Secure transaction handling
 
 These services process data only to the extent required for their core functions. None of the data collected is linked to your personal identity.
 
 ## 6. Data Retention
 
-Photos: Not stored. Discarded immediately after transformation by Replicate.  
-Face data: Not retained.  
-Analytics and diagnostics: Anonymous only.  
-Purchase information: Managed by Apple and RevenueCat.  
-No user data is linked to personal identity.
+**Photos:** Not stored. Discarded immediately after transformation by Replicate.  
+**Face data:** Not retained.  
+**Analytics and diagnostics:** Anonymous only.  
+**Purchase information:** Managed by Apple and RevenueCat.  
+**No user data is linked to personal identity.**
 
 ## 7. Data Security
 
