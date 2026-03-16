@@ -96,45 +96,46 @@ Face data is **not retained** by us or by any third party. Photos exist in Repli
 
 We use the following third-party services:
 
-**Replicate, Inc.** — AI-powered photo transformations  
-**RevenueCat** — Subscription and purchase management  
-**Firebase Analytics** — Anonymous usage analytics  
-**Firebase Crashlytics** — Crash reporting and diagnostics  
-**Firebase Remote Config** — App configuration delivery  
-**AIProxy** — Secure AI service routing  
-**Apple In-App Purchases** — Secure transaction handling
+- **Replicate, Inc.** — AI-powered photo transformations. Uploaded content is used only for temporary processing and is immediately discarded. Replicate does not store, retain, or reuse uploaded images or any face data derived from them.
+- **RevenueCat** — Subscription and purchase management. Collects device identifiers and purchase history to manage entitlements.
+- **Firebase Analytics** — Anonymous usage analytics. Collects device identifiers and product interaction data.
+- **Firebase Crashlytics** — Crash reporting and diagnostics. Collects crash data and diagnostic information.
+- **Firebase Remote Config** — App configuration delivery. No user data collected.
+- **AIProxy** — Secure AI service routing. Uses an anonymous stable device identifier and collects IP address for security purposes.
+- **Apple In-App Purchases** — Secure transaction handling.
 
 These services process data only to the extent required for their core functions. None of the data collected is linked to your personal identity.
 
 ## 6. Data Retention
 
-**Photos:** Not stored. Discarded immediately after transformation by Replicate.  
-**Face data:** Not retained.  
-**Analytics and diagnostics:** Anonymous only.  
-**Purchase information:** Managed by Apple and RevenueCat.  
-**No user data is linked to personal identity.**
+- **Photos:** Not stored. Discarded immediately after transformation by Replicate.
+- **Face data:** Not retained. No face data is extracted, stored, or retained at any point.
+- **Analytics and diagnostics:** Retained in anonymous, aggregated form by third-party providers according to their own retention policies.
+- **Purchase information:** Managed by Apple and RevenueCat under their respective privacy and retention policies.
+- **No user data is linked to personal identity.**
 
 ## 7. Data Security
 
-All data transmission is encrypted.  
-Photo processing is automated.  
-No employee access to photos.  
-No biometric data stored.  
-We apply appropriate technical safeguards.
+- All data transmission between your device, our services, and third-party providers is encrypted.
+- Photo processing is fully automated with no human access.
+- No employee has access to your photos unless you explicitly request support.
+- We do not store, analyze, or share biometric or facial data.
+- We apply appropriate technical and organizational measures to protect your data. While no system can guarantee 100% security, we continuously work to safeguard your information.
 
 ## 8. Children's Privacy
 
-Glarefy is not designed for users under age 4.  
-If data was shared in error, contact: tunahanaktay.apps@gmail.com
+Glarefy is not designed for users under age 4. We do not knowingly collect any data from children. If you believe data was shared with us in error, please contact us at tunahanaktay.apps@gmail.com and we will delete it immediately.
 
 ## 9. International Transfers
 
-Processing may occur on secure cloud servers outside your country under GDPR-compliant infrastructure.
+Some temporary photo processing and analytics may occur on cloud servers located outside your country. All processing is done under secure, GDPR-compliant infrastructure.
 
 ## 10. Changes to This Policy
 
-We may update this policy at any time. Continued use means acceptance.
+We may update this Privacy Policy from time to time. The updated version will be posted here with a revised "Last Updated" date. Continued use of the Application constitutes acceptance of the updated terms.
 
 ## 11. Contact Us
 
-tunahanaktay.apps@gmail.com
+If you have any questions or concerns about this Privacy Policy or our data practices, please contact us:
+
+Email: tunahanaktay.apps@gmail.com
