@@ -1,52 +1,138 @@
-# Privacy Policy – Glarefy: Glare Remover from Glasses
-Last Updated: [2026/3/15]
+# Privacy Policy — Glarefy
 
-# 1. Acceptance of Terms
-Glarefy is committed to protecting your privacy. This Privacy Policy applies to Glarefy and its various versions (collectively referred to as "we", "us", or "our") and is part of our Terms of Use. By accessing or using our Application, you acknowledge and fully understand Glarefy’s Privacy Policy and freely consent to the practices described here.
+Last Updated: 2026/3/15
 
-# 2. Information We Collect
-We may collect the following information when you use the Application:
-- Subscription and payment data (processed securely via Apple App Store)
-- Device and usage information (e.g., device model, operating system, IP address, app usage statistics)
-- Uploaded photos used for AI-powered glare and reflection removal (temporarily processed)
+## 1. Acceptance of Terms
 
-# 3. How We Use Your Information
-We use your information to:
-- Provide and improve AI-powered glare and reflection removal features
-- Process uploaded photos securely and generate results
-- Manage subscriptions and payments
-- Analyze usage trends and improve functionality
-- Communicate important updates and respond to support inquiries
+Glarefy ("Glarefy", "we", "us", or "our") is committed to protecting your privacy. This Privacy Policy applies to Glarefy and its various versions and is part of our Terms of Use. By accessing or using our Application, you acknowledge and fully understand this Privacy Policy and freely consent to the practices described here.
 
-# 4. Photo Data & Processing
-- Photos are temporarily processed on secure servers for the sole purpose of glare and reflection removal.
-- All uploaded photos are automatically deleted within 24 hours.
-- No biometric identification or facial recognition is performed.
-- We do not sell, resell, or reuse your photos.
-- Uploaded images are used strictly for glare-removal purposes in compliance with data protection standards.
+None of the data collected by this app is linked to your identity.
 
-# 4A. Face Data and Image Processing
-- The Application does not collect, analyze, or store any facial data or biometric identifiers.
-- All photos, including those that may contain faces, are processed solely to apply visual effects to glasses.
-- No facial recognition, face mapping, or identity analysis is performed.
-- Photos are processed temporarily and automatically deleted from servers within 24 hours.
-- The app does not create, infer, or retain any data that can identify or authenticate an individual based on facial features.
-- The Application’s AI models process images only for artistic rendering purposes and do not perform biometric analysis of any kind.
+## 2. Data We Collect
 
-# 5. Third-Party Services
-We may use trusted third-party services to operate our Application:
-- Apple App Store (payments)
-- Firebase & analytics tools (performance and usage insights)
-- RevenueCat (subscription management)
-- AI processing providers (photo editing and generation services)
-These providers are only permitted to use your information to perform services on our behalf.
+We collect the following categories of data, none of which is linked to your identity:
 
-# 6. Data Security
-We apply appropriate technical and organizational measures to protect your data. While no system can guarantee 100% security, we continuously work to safeguard your information.
+### User Content
 
-# 7. Changes to This Policy
-We may update this Privacy Policy from time to time. The updated version will be posted here with a revised "Last Updated" date. Continued use of the Application constitutes acceptance of the updated terms.
+Photos or Videos — Used for App Functionality
 
-# 8. Contact Us
-If you have questions or concerns about this Privacy Policy, please contact us:
-Email: tunahanaktay.apps@gmail.com
+You may upload or capture photos solely for AI-powered glare removal, reflection removal, glasses glare reduction, and photo enhancement transformations. Photos are sent temporarily to our AI provider for processing and are automatically discarded once the transformation is complete. We do not store, extract, or analyze facial features for identification or profiling purposes.
+
+### Identifiers
+
+Device ID — Used for Analytics, and Other Purposes
+
+An anonymous device identifier is collected to ensure secure and reliable AI service routing. This identifier is not linked to your personal identity.
+
+### Purchases
+
+Purchase History — Used for App Functionality, and Analytics
+
+If you make in-app purchases, transaction data is processed by Apple and RevenueCat to manage your subscription. This data is used to provide access to premium features and to analyze purchasing trends in aggregate.
+
+### Usage Data
+
+Product Interaction — Used for Analytics
+
+We collect anonymous data about how you interact with the app (e.g., screens viewed, features used) through Firebase Analytics. This helps us understand how the app is used and identify areas for improvement.
+
+### Diagnostics
+
+Crash Data — Used for App Functionality
+
+Crash reports are collected through Firebase Crashlytics to help us identify and fix issues that affect app stability.
+
+Other Diagnostic Data — Used for App Functionality, and Analytics
+
+Additional diagnostic information (e.g., performance metrics, error logs) may be collected to monitor app health and improve reliability.
+
+### Other Data
+
+Other Data Types — Used for Other Purposes, and Analytics
+
+Anonymous service data, including IP address, is collected to ensure secure and safe AI service routing.
+
+## 3. Face Data Collection, Use, and Retention
+
+This section describes in detail how Glarefy handles face data in compliance with Apple's App Store Review Guidelines (5.1.1).
+
+### What face data does the app collect?
+
+Glarefy does not collect, store, or retain any face data. Photos you upload may contain faces, but the app does not extract, analyze, or store any facial features, biometric identifiers, or face geometry data. The uploaded photo is processed as a whole image; no face-specific data is isolated or recorded at any point.
+
+### How is face data used?
+
+Photos containing faces are used solely to provide AI-powered glare removal, reflection removal, glasses glare reduction, and photo enhancement transformations. The processing is entirely automated by AI models that apply visual transformations to the image. The app does not perform facial recognition, face mapping, identity analysis, or any form of biometric identification. No face data is used for advertising, profiling, or any purpose beyond delivering the requested transformation.
+
+### Is face data shared with third parties?
+
+Photos are transmitted to our third-party AI processing provider, Replicate, Inc., solely for the purpose of performing the requested transformation. Replicate processes the image, returns the result, and immediately discards the original photo. Replicate does not store, retain, or reuse uploaded images. Replicate does not extract or retain any face data, biometric identifiers, or facial features from the images it processes.
+
+No other third party receives or has access to your photos or any face data.
+
+### How long is face data retained?
+
+Face data is not retained by us or by any third party. Photos exist in Replicate's processing pipeline only for the duration of the transformation (typically seconds) and are automatically discarded upon completion. We do not maintain any copies, backups, or derivatives of your photos on our servers.
+
+### Summary
+
+Face data collected? No. Photos processed as whole images; no face data extracted.  
+Face data stored? No. Not retained by us or any third party.  
+Biometric analysis performed? No. No facial recognition, face mapping, or identity analysis.  
+Face data shared? Photos sent to Replicate for processing only; immediately discarded.  
+Replicate stores face data? No. Discarded immediately after transformation.  
+Face data used for profiling? No. Used solely for visual transformation.
+
+## 4. How We Process Your Photos
+
+- Temporary processing: Uploaded photos are sent to our third-party AI provider, Replicate, Inc., for AI-powered glare removal, reflection removal, glasses glare reduction, and photo enhancement transformations.
+- No storage: Once the transformation is complete, the image is returned to your device and the original photo is automatically discarded by Replicate. We do not store photos on our own servers.
+- No biometric analysis: The app does not extract or analyze facial features for identification or profiling purposes. No biometric identifiers are created, inferred, or retained.
+- No human review: All processing is handled by automated AI models. No employee accesses or views your images unless you explicitly contact our support team for help.
+
+## 5. Third-Party Services
+
+We use the following third-party services:
+
+Replicate, Inc. — AI-powered photo transformations  
+RevenueCat — Subscription and purchase management  
+Firebase Analytics — Anonymous usage analytics  
+Firebase Crashlytics — Crash reporting and diagnostics  
+Firebase Remote Config — App configuration delivery  
+AIProxy — Secure AI service routing  
+Apple In-App Purchases — Secure transaction handling
+
+These services process data only to the extent required for their core functions. None of the data collected is linked to your personal identity.
+
+## 6. Data Retention
+
+Photos: Not stored. Discarded immediately after transformation by Replicate.  
+Face data: Not retained.  
+Analytics and diagnostics: Anonymous only.  
+Purchase information: Managed by Apple and RevenueCat.  
+No user data is linked to personal identity.
+
+## 7. Data Security
+
+All data transmission is encrypted.  
+Photo processing is automated.  
+No employee access to photos.  
+No biometric data stored.  
+We apply appropriate technical safeguards.
+
+## 8. Children's Privacy
+
+Glarefy is not designed for users under age 4.  
+If data was shared in error, contact: tunahanaktay.apps@gmail.com
+
+## 9. International Transfers
+
+Processing may occur on secure cloud servers outside your country under GDPR-compliant infrastructure.
+
+## 10. Changes to This Policy
+
+We may update this policy at any time. Continued use means acceptance.
+
+## 11. Contact Us
+
+tunahanaktay.apps@gmail.com
